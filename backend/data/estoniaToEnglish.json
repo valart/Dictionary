@@ -1,0 +1,86 @@
+{
+  "tere": {
+    "translation": [
+      "hello"
+    ]
+  },
+  "oranž": {
+    "translation": [
+      "orange"
+    ]
+  },
+  "apelsin": {
+    "translation": [
+      "orange"
+    ]
+  },
+  "võti": {
+    "translation": [
+      "key"
+    ]
+  },
+  "klahv": {
+    "translation": [
+      "key"
+    ]
+  },
+  "lennuk": {
+    "translation": [
+      "plane"
+    ]
+  },
+  "maa": {
+    "translation": [
+      "earth",
+      "land",
+      "country"
+    ]
+  },
+  "taim": {
+    "translation": [
+      "plant"
+    ]
+  },
+  "istutama": {
+    "translation": [
+      "plant"
+    ]
+  },
+  "töö": {
+    "translation": [
+      "work"
+    ]
+  },
+  "töötama": {
+    "translation": [
+      "work"
+    ]
+  },
+  "tee": {
+    "translation": [
+      "tea",
+      "road",
+      "way"
+    ]
+  },
+  "puu": {
+    "translation": [
+      "tree"
+    ]
+  },
+  "ema": {
+    "translation": [
+      "mother"
+    ]
+  },
+  "isa": {
+    "translation": [
+      "father"
+    ]
+  },
+  "vend": {
+    "translation": [
+      "brother"
+    ]
+  }
+}
