@@ -10,7 +10,7 @@ the maximum distance between words is 3. But in addition to translation, the use
 If for example a word has been added from English to Estonian, then it will also be added to the Estonian-English dictionary.
 
 For design, I used a ready-made layout material design component framework **Vuetify**. But the beauty is that the application 
-is responsive. which means that it can be used on the phone, while the aesthetics do not disappear.
+is responsive, which means that it can be used on the phone, while the aesthetics do not disappear.
 
 **LET'S LOOK AT THE APPLICATION!**
 

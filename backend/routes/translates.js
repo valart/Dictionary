@@ -4,7 +4,7 @@
 const levenshtein = require('js-levenshtein');
 
 const translateRoutes = (app, fs) => {
-    // https://robkendal.co.uk/blog/how-to-build-a-restful-node-js-api-server-using-json-files/
+    
     const englishPath = "./data/englishToEstonia.json";
     const estoniaPath = "./data/estoniaToEnglish.json";
 
